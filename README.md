@@ -1,3 +1,10 @@
+## This is a submission for Peer Assessment 1 of the Coursera Reproducible Research Course
+The files containing the final submitted results are the .Rmd, .md, and .html files names "PA1_Stevenson_submission"
+
+The commit that corresponds to the final submitted assignment is:
+28965d91e7bd95f7c7fabf42c0ac3ab03f08dc4c
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
